@@ -1,41 +1,49 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Роман!</h1>
+<h1 align="center">Привет 👋 Меня зовут Роман!</h1>
 
 ###
 
-  </a>
+<div align="center">
   <a href="https://t.me/masovskiy_tg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+  <a href="https://mio-intl.github.io/20-masovskiy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MIO%20Profile&logo=googlechrome&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="MIO profile" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UniMasOffical&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=UniMasOffical&" />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻 Обо мне</h3>
 
 ###
 
-<p align="left">Я разработчик на NASM, V и Python. Мой путь в IT начался со школы Wiseplat и YouTube, где я смотрел обучающие ролики. После того как я посмотрел все видео, я начал пробовать разные направления: NASM, V, Python, C, Swift, Java и другие. В настоящий момент моё самообучение завершилось.<br><br>- 🔭 Мои проекты: MIO, JustAuthBot, JustTicketBot, Джаст, Бот по имени Вася и другие.<br>- 📚 Обучал Python'у — некоторые мои ученики сейчас очень успешны!<br>- Описанию 2 годаt.</p>
-
-
+<p align="left">
+Я системный администратор и разработчик на NASM, V и Python. Также владею несколькими другими языками программирования и shell-языками (Bash, Zsh и др.). Мой путь в IT начался со школы Wiseplat и обучающих видео на YouTube: посмотрев курсы, я начал пробовать разные направления — NASM, V, Python, C, Swift, Java и другие. Сейчас этап самообучения завершён.<br><br>
+- 🔭 Мои проекты: MIO, JustAuthBot, JustTicketBot, «Джаст», бот по имени Вася и другие.<br>
+- 🐧 Администрирую Linux-системы и инфраструктуру, уверенно работаю с shell-окружением.<br>
+- 🧩 Дописывал PongoOS (checkra1n) для эмуляции в QEMU — low-level systems и reverse engineering.<br>
+- 📚 Преподавал Python — некоторые мои ученики уже добились заметных успехов.<br>
+- 🧑‍💻 В разработке около пяти лет.
+</p>
 
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ###
@@ -45,39 +53,43 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/zsh/F15A24" height="40" alt="zsh logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 Моя статистика:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=masovskiy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=masovskiy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masovskiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masovskiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
